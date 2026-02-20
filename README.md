@@ -1,4 +1,4 @@
-Olá, eu sou o Martim Aquino 👋
+## Olá, eu sou o Martim Aquino 👋
 🚀 Sobre MimSou um desenvolvedor apaixonado por construir soluções escaláveis e eficientes. 
 Com uma base sólida consolidada através da minha trajetória profissional detalhada no LinkedIn, foco hoje em contribuir para o ecossistema open-source e em aprimorar minhas competências em sistemas distribuídos e IA aplicada.
 🔭 Atualmente trabalhando em: [Nome do Projeto Principal]🌱
