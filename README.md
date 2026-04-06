@@ -20,15 +20,3 @@
 - Backend para websites e aplicações
 - Automação de processos para ganhar escala e eficiência
 
-## Sobre este perfil
-
-- Apresentação visual mais limpa e atual
-- Estrutura pensada para destacar projetos e experiência
-- Base pronta para evoluir com suas informações reais
-
-## Próximos blocos úteis
-
-- Projetos em destaque
-- Stack e tecnologias
-- Experiência e formação
-- Contato profissional
